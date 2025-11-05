@@ -1,0 +1,5 @@
+Model	Accuracy	Precision	Recall	F1
+Naive Bayes	0.5	0.25	0.5	0.3333333333333333
+SVM	1.0	1.0	1.0	1.0
+Random Forest	0.75	0.625	0.75	0.6666666666666666
+XGBoost	0.75	0.625	0.75	0.6666666666666666

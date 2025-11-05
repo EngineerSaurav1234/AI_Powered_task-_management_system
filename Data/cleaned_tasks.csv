@@ -1,0 +1,21 @@
+task_id,task_description,priority,status,category,due_date,assigned_to,estimated_hours,processed_description
+1,Complete project proposal for AI task management system,High,Pending,Planning,2024-12-01,Alice,4,complete project proposal for ai task management system
+2,Implement data preprocessing pipeline,Medium,In Progress,Development,2024-11-25,Bob,6,implement data preprocessing pipeline
+3,Conduct exploratory data analysis on task dataset,High,Completed,Analysis,2024-11-20,Charlie,3,conduct exploratory data analysis on task dataset
+4,Train machine learning models for task classification,High,In Progress,ML,2024-12-05,Alice,8,train machine learning models for task classification
+5,Create user interface for task dashboard,Medium,Pending,UI,2024-12-10,Diana,5,create user interface for task dashboard
+6,Write unit tests for core functions,Low,Pending,Testing,2024-12-15,Eve,2,write unit tests for core functions
+7,Optimize model performance using hyperparameter tuning,High,Not Started,ML,2024-12-08,Bob,4,optimize model performance using hyperparameter tuning
+8,Prepare documentation for API endpoints,Medium,In Progress,Documentation,2024-11-30,Charlie,3,prepare documentation for api endpoints
+9,Set up continuous integration pipeline,Low,Pending,DevOps,2024-12-20,Diana,6,set up continuous integration pipeline
+10,Review and refactor legacy code,Medium,Not Started,Maintenance,2024-12-12,Eve,5,review and refactor legacy code
+11,Design database schema for task storage,High,Completed,Database,2024-11-18,Alice,4,design database schema for task storage
+12,Implement authentication and authorization,High,In Progress,Security,2024-12-03,Bob,7,implement authentication and authorization
+13,Create data visualization charts,Medium,Pending,Analysis,2024-12-07,Charlie,3,create data visualization charts
+14,Perform cross-validation on trained models,High,Not Started,ML,2024-12-10,Diana,4,perform cross-validation on trained models
+15,Conduct user acceptance testing,Low,Pending,Testing,2024-12-18,Eve,3,conduct user acceptance testing
+16,Deploy application to production environment,High,Not Started,Deployment,2024-12-15,Alice,6,deploy application to production environment
+17,Monitor system performance and logs,Medium,Pending,Monitoring,2024-12-20,Bob,2,monitor system performance and logs
+18,Update project dependencies,Low,Not Started,Maintenance,2024-12-22,Charlie,1,update project dependencies
+19,Create user manual and help documentation,Medium,Pending,Documentation,2024-12-25,Diana,4,create user manual and help documentation
+20,Plan sprint retrospective meeting,Low,Pending,Planning,2024-12-28,Eve,1,plan sprint retrospective meeting
